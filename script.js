@@ -42,6 +42,7 @@ $(".button").on("click", function(){
 	});
 });
 
+var WinnerPosition =;
 
  
 
